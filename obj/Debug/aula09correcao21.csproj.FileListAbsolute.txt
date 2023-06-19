@@ -1,0 +1,7 @@
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\bin\Debug\aula09correcao21.exe.config
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\bin\Debug\aula09correcao21.exe
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\bin\Debug\aula09correcao21.pdb
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\obj\Debug\aula09correcao21.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\obj\Debug\aula09correcao21.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\obj\Debug\aula09correcao21.exe
+C:\Users\eduardo.lfuzato\source\repos\aula09correcao21\aula09correcao21\obj\Debug\aula09correcao21.pdb
